@@ -1,0 +1,26 @@
+p{
+
+    user-select: none;
+
+}
+
+.button{
+
+    padding: 5px 10px;
+
+    background: green;
+
+    width: 100px;
+
+    text-align: center;
+    color: white;
+
+    cursor: pointer;
+
+}
+
+#rez:first-letter{
+
+    text-transform:capitalize;
+
+}

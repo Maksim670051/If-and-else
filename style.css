@@ -24,3 +24,10 @@ p{
     text-transform:capitalize;
 
 }
+
+.error{
+
+    color: red;
+    font-weight: 600;
+
+}
